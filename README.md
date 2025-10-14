@@ -1,3 +1,3 @@
-# Homework assignment 5
+# Homework assignment 6
 
 ### Solving systems of ODEs. Limit cycles.
